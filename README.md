@@ -13,9 +13,11 @@ This project was developed as the core practical assessment for the National Pro
 
 *Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to comply with data privacy standards and professional assessment requirements strictly.*
 
-![Sales Performance Summary](Screenshots/Dashboard%20Sales%20Performance%20Summary.png)
-![Financial Cost Analysis](Screenshots/Dashboard%20Financial%20Cost%20Analysis.png)
-![Regional Revenue Analytics](Screenshots/Dashboard%20Regional%20Revenue%20Analytics.png)
+![Sales Overview](Screenshots/Supermarket%20Sales%20Overview.png)
+![Supplies Report](Screenshots/Supermarket%Supplies%20Report.png)
+![Membership](Screenshots/Total%20Member%20Dashboard.png)
+![Total Sales](Screenshots/Total%20Sales%20Overview.png)
+
 
 ---
 
