@@ -1,4 +1,5 @@
-# 🛒 Supermarket Sales & Financial Intelligence Dashboard — BNSP Data Analyst Certification
+# 🛒 BNSP Data Analyst Certified Project — Walmart Retail Analysis
+
 
 ## 📌 Project Overview
 Delivered an end-to-end Supermarket Sales Dashboard in Advanced Excel to monitor, clean, and optimize retail transactional workflows. The solution covers key financial domains including Total Sales, Cost tracking, and Net Income analysis across multiple regional sectors, serving as a validated analytical tool to evaluate market performance and operational profitability in real-time.
